@@ -22,13 +22,6 @@ AMS 151 or MAT 125 or MAT 131
 
 Discrete Mathematics: Introduction to Mathematical Reasoning. Susanna S. Epp. 1st Edition
 
-## Course overall schedule
-
-- **Lectures:** Tuesday and Thursday, 3:30–4:50 PM, Room B207
-- **Recitation:** Tuesday, 5:00–5:55 PM, Room B207
-- **Homework:** Announced every Thursday; submissions due the following Thursday by 11:59 PM KST.
-- **Office Hours:** Tuesday, 2:25–3:25 PM, and Thursday, 4:55–5:55 PM, Room C521.
-
 ## Instructor
 
 **Zhoulai Fu**  
@@ -38,6 +31,20 @@ Email: zhoulai.fu@sunykorea.ac.kr
 
 **Shubhangi Saileja Rabichandra Garnaik**  
 Email: shubhangisaile.garnaik@stonybrook.edu
+
+
+## Course overall schedule
+
+- **Lectures:** Tuesday and Thursday, 3:30–4:50 PM, Room B207
+- **Recitation:** Tuesday, 5:00–5:55 PM, Room B207
+- **Homework:** Announced every Thursday; submissions due the following Thursday by 11:59 PM KST.
+- **Office Hours:** Tuesday, 2:25–3:25 PM, and Thursday, 4:55–5:55 PM, Room C521.
+
+- **TA Office Hours:**  Monday 1 - 2:30 pm, 7 - 9 pm and Wednesday 7 - 9 pm, Room C408.
+
+
+
+
 
 ## Zoom link
 
