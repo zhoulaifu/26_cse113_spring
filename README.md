@@ -35,12 +35,31 @@ Email: shubhangisaile.garnaik@stonybrook.edu
 
 ## Course overall schedule
 
-- **Lectures:** Tuesday and Thursday, 3:30–4:50 PM, Room B207
-- **Recitation:** Tuesday, 5:00–5:55 PM, Room B207
-- **Homework:** Announced every Thursday; submissions due the following Thursday by 11:59 PM KST.
-- **Office Hours:** Tuesday, 2:25–3:25 PM, and Thursday, 4:55–5:55 PM, Room C521.
 
-- **TA Office Hours:**  Monday 1 - 2:30 pm, 7 - 9 pm and Wednesday 7 - 9 pm, Room C408.
+* **Lectures:** Tuesday & Thursday, 3:30–4:50 PM (Room B207)
+
+* **Recitation:** Tuesday, 5:00–5:55 PM (Room B207)
+
+* **Homework:** Assigned each Thursday; due the following Thursday by 11:59 PM (KST)
+
+* **Office Hours (Instructor):**
+
+  * Tuesday, 2:25–3:25 PM
+  * Thursday, 4:55–5:55 PM
+    (Room C521)
+
+* **TA Office Hours:**
+
+  * Monday: 1:00–2:30 PM, 7:00–9:00 PM
+  * Wednesday: 7:00–9:00 PM
+    (Room C408)
+
+* **Exams:**
+
+  * Midterm 1: April 9 (tentative)
+  * Midterm 2: May 21 (tentative)
+  * Final Exam: June 16 (firm; refer to school website for details)
+
 
 
 
