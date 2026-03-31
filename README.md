@@ -52,7 +52,7 @@ Email: shubhangisaile.garnaik@stonybrook.edu
 
   * Monday: 1:00–2:30 PM, 7:00–9:00 PM
   * Wednesday: 7:00–9:00 PM
-    (Room C408)
+    (Room C504)
 
 * **Exams:**
 
