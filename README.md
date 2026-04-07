@@ -56,7 +56,7 @@ Email: shubhangisaile.garnaik@stonybrook.edu
 
 * **Exams:**
 
-  * Midterm 1: April 9 (tentative)
+  * Midterm 1: April 9 (tentative) -> April 16 (firm)
   * Midterm 2: May 21 (tentative)
   * Final Exam: June 16 (firm; refer to school website for details)
 
